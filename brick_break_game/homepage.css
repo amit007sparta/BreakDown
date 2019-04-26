@@ -1,0 +1,52 @@
+.title {
+    
+    justify-content: center;
+    font-family: 'Press Start 2P', cursive;
+    font-size: 30px ;
+   
+}
+
+button{
+    background: url(/images/blank.jpeg) no-repeat;
+    border-radius: 10px;
+    padding: 15px;
+    margin: 20px;
+    font-size: 30px;
+    font-family: 'Press Start 2P', cursive;
+    color: white;
+}
+
+body{
+    height: 100%;
+    width: 100%;
+    background-size: 100%;
+}
+#selectLevel{
+    color: white;
+}
+
+.dropdown{
+    float: right;
+    font-size: 30px;
+    font-family: 'Press Start 2P', cursive;
+    
+    
+}
+select{
+    background: url(/images/blank.jpeg) no-repeat;
+    padding:20px;
+    margin: 20px;
+    font-size: 30px;
+    font-family: 'Press Start 2P', cursive;
+}
+.playCont{
+    display: inline-block;
+   
+}
+
+.play_level{
+    float: left;
+    font-size: 30px;
+    font-size: 30px;
+    font-family: 'Press Start 2P', cursive;
+}
